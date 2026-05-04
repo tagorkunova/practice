@@ -1,0 +1,15 @@
+Objects/
+Listings/
+build.log
+
+*.axf
+*.bin
+*.hex
+*.map
+*.dep
+*.o
+*.obj
+*.lst
+
+*.uvoptx
+*.uvguix.*
